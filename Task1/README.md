@@ -10,3 +10,6 @@ BEGINNER LEVEL #TASK1 : CREATE A TO DO LIST WEBAPP
 ## Demo
 
 ![Screenshot 2023-03-01 002527](https://user-images.githubusercontent.com/92919173/221951943-9aba82d1-57de-45db-8808-e3db19455b8f.jpg)
+<hr>
+<h4>Live Site: https://task-1-lgmvip.netlify.app/
+<h4>YouTube demo: https://www.youtube.com/watch?v=8N4G2FpVQ4g
