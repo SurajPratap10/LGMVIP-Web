@@ -4,4 +4,4 @@ LetsGrowMore is a ground-based organisation that aims at building the future thr
 
 
 ## Projects:
-1) Task1: To-Do List app
+1) `Task1:` To-Do List app
