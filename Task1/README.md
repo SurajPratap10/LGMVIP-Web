@@ -6,6 +6,7 @@ BEGINNER LEVEL #TASK1 : CREATE A TO DO LIST WEBAPP
 1) HTML
 2) CSS
 3) JS
+4) Netlify
 
 ## Demo
 
