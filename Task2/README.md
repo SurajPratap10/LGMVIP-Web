@@ -23,10 +23,10 @@ BEGINNER LEVEL #TASK2 :  Create a web application using create-react-app
 
 <h1> Links:
 <h4>Live Site: https://task-2-lgmvip.netlify.app/
-<h4>GitHub repo: https://github.com/SurajPratap10/LGMVIP-Web/blob/main/Task1
+<h4>GitHub repo: https://github.com/SurajPratap10/LGMVIP-Web/tree/main/Task2
 <h4>YouTube demo: https://www.youtube.com/watch?v=bWiYxqHIj0U
-<h4>LinkedIn Post: https://www.linkedin.com/posts/suraj-pratap-948a92225_task1-letsgrowmore-march2023-activity-7036411538454306816-LRmN?utm_source=share&utm_medium=member_desktop
-<h4>Facebook Post: https://www.facebook.com/100075096226121/videos/706041287872447/
+<h4>LinkedIn Post: https://www.linkedin.com/posts/suraj-pratap-948a92225_task2-letsgrowmore-march2023-activity-7036782793581891584-UDd4?utm_source=share&utm_medium=member_desktop
+<h4>Facebook Post: https://www.facebook.com/100075096226121/videos/591572576177648/
 
 
 <hr>
