@@ -1,4 +1,4 @@
-# React-App
+# React-Web-App
 
 BEGINNER LEVEL #TASK2 :  Create a web application using create-react-app
 
