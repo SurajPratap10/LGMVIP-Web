@@ -1,3 +1,35 @@
+# React-App
+
+BEGINNER LEVEL #TASK2 :  Create a web application using create-react-app
+
+
+## Tech Stack:
+1) HTML
+2) CSS
+3) REACT JS
+4) NETLIFY
+
+## Overview:
+
+
+
+
+![Screenshot 2023-03-02 005559](https://user-images.githubusercontent.com/92919173/222245262-d75378e8-f661-4601-a257-08c20b26d720.jpg)
+
+
+
+![Screenshot 2023-03-02 005710](https://user-images.githubusercontent.com/92919173/222245275-07c6b340-36d7-4faf-9b10-234aa1c867a7.jpg)
+
+
+<h1> Links:
+<h4>Live Site: https://task-2-lgmvip.netlify.app/
+<h4>GitHub repo: https://github.com/SurajPratap10/LGMVIP-Web/blob/main/Task1
+<h4>YouTube demo: https://www.youtube.com/watch?v=bWiYxqHIj0U
+<h4>LinkedIn Post: https://www.linkedin.com/posts/suraj-pratap-948a92225_task1-letsgrowmore-march2023-activity-7036411538454306816-LRmN?utm_source=share&utm_medium=member_desktop
+<h4>Facebook Post: https://www.facebook.com/100075096226121/videos/706041287872447/
+
+
+<hr>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
