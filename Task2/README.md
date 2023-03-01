@@ -29,7 +29,7 @@ BEGINNER LEVEL #TASK2 :  Create a web application using create-react-app
 <h4>Facebook Post: https://www.facebook.com/100075096226121/videos/591572576177648/
 
 
-<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
