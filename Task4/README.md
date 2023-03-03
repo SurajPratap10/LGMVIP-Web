@@ -18,5 +18,5 @@ INTERMEDIATE LEVEL #TASK4 : CREATE A CALCULATOR USING HTML, CSS & JS OR REACT JS
 <h4>Live Site: https://task-4-lgmvip.netlify.app/
 <h4>GitHub repo: https://github.com/SurajPratap10/LGMVIP-Web/tree/main/Task4
 <h4>YouTube demo: https://www.youtube.com/watch?v=GI8oS5f_3cw
-<h4>LinkedIn Post: https://www.linkedin.com/posts/suraj-pratap-948a92225_task2-letsgrowmore-march2023-activity-7036782793581891584-UDd4?utm_source=share&utm_medium=member_desktop
-<h4>Facebook Post: https://www.facebook.com/100075096226121/videos/591572576177648/
+<h4>LinkedIn Post: https://www.linkedin.com/posts/suraj-pratap-948a92225_task4-letsgrowmore-march2023-activity-7037255734266388480-EtJB?utm_source=share&utm_medium=member_desktop
+<h4>Facebook Post: https://www.facebook.com/100075096226121/videos/916428869783496/
