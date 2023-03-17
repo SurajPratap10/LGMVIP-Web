@@ -6,6 +6,6 @@ LetsGrowMore is a ground-based organisation that aims at building the future thr
 ## Projects:
 1) `Task1:` To-Do List app
 2) `Task2:` React-web-app
-3) `Task3:` Student-registration-form
+3) `Task3:` Student-enrollment-form
 4) `Task4:` Calculator-app
 
